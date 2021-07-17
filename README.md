@@ -1,4 +1,8 @@
-#### Process before editing code
+### demo deploy at
+https://nocap-demo.herokuapp.com/
+
+
+#### Process before editing code (left over from group work)
 
 - In github roadmap, write "(YOUR NAME HERE) is working on this" and sendout slack in group (potentially asking for partner)"
 - `git pull` get all the latest updates from master
